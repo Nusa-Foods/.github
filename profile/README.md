@@ -23,6 +23,8 @@ Discover culinary creativity with our AI-powered food app! Whether you want to g
 - **Next.js**: For server-side rendering and static site generation.
 - **Framer Motion**: For animations.
 
+- **Repository**: [User Client Side](https://github.com/Nusa-Foods/web-client)
+
 ### Server Side
 
 - **MongoDB**: For database management.
@@ -41,12 +43,16 @@ Discover culinary creativity with our AI-powered food app! Whether you want to g
 - **React**: For building the admin interface.
 - **Cloudinary**: For image and video management.
 
+- **Repository**: [Admin Client Side](https://github.com/Nusa-Foods/admin-web-client)
+
 ### Prerequisites
 
 - Node.js
 - MongoDB
 - Google Cloud account for Google Auth and Cloudinary
 - Meta LLaMA3-8B-8192 LLM Models access
+
+- **Repository**: [Admin Client Side](https://github.com/Nusa-Foods/main-server)
 
 ### License
 This project is licensed under the MIT License.
