@@ -4,6 +4,8 @@ Discover culinary creativity with our AI-powered food app! Whether you want to g
 
 ![App Preview](assets/ezgif.com-animated-gif-maker.gif)
 
+![App Demo](https://youtu.be/RGr6OuByLJ0?si=B2d_QjwRMiGunQzz)
+
 ## Features
 
 -   **Recipe Generation**: Generate recipes based on your available ingredients.
